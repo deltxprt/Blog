@@ -6,6 +6,8 @@ dist/
 # dependencies
 node_modules/
 
+*/*.npmrc
+
 # logs
 npm-debug.log*
 yarn-debug.log*
@@ -23,5 +25,5 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 
-.npmrc
+
 package-lock.json
